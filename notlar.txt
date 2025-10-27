@@ -1,0 +1,3 @@
+Alper Kara adlı öğrencinin bu derste elde ettiği harf notu: AA
+Gunes kedi adlı öğrencinin bu derste elde ettiği harf notu: CC
+Mars Kedi adlı öğrencinin bu derste elde ettiği harf notu: BB

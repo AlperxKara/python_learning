@@ -1,0 +1,53 @@
+"""
+Senaryo:
+
+Kullanıcı kütüphaneye giriş yaptı.
+
+Kütüphane sisteminde kullanıcı şu işlemleri yapabilir:
+
+1: Kitap ödünç al
+
+2: Kitap iade et
+
+3: Mevcut ödünç alınan kitapları göster
+
+4: Kütüphaneden çıkış
+
+Kurallar:
+
+Kullanıcı en fazla 5 kitap ödünç alabilir.
+
+Kitap iade etmek için ödünç aldığı kitaplardan birini seçmeli.
+
+Her işlemden sonra kullanıcıya güncel kitap durumu gösterilmeli.
+
+Ekstra zorluk:
+
+Kullanıcı geçersiz bir işlem numarası girerse uyarı ver.
+
+Kitap ödünç alma veya iade etme işlemleri sonsuz döngüde devam eder.
+
+Görevlerin:
+
+Önce algoritmayı adım adım yaz:
+
+Kullanıcının başlangıç kitap listesi (boş)
+
+Sonsuz döngü ile işlem menüsü
+
+İşlem seçimi ve koşullar
+
+Ödünç alma / iade etme işlemlerini listeye ekleme / çıkarma
+
+Mevcut kitapları gösterme
+
+Kütüphaneden çıkış ile döngüyü sonlandırma
+
+Daha sonra bu algoritmayı Python koduna çevir.
+
+Ekstra:
+
+Her ödünç alma ve iade işleminde kitap adını kullanıcıdan al.
+
+Ödünç alınabilecek kitapların bir listesi olsun, kullanıcı sadece bu listeden seçim yapabilsin.
+"""
